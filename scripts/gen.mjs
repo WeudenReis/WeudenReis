@@ -106,6 +106,71 @@ const PROJECTS = [
     tags: ['Next.js', 'React 19', 'Tailwind'] },
 ];
 
+// Terminal animado que fica ao lado do "Sobre mim" (funciona nos dois temas).
+function terminal() {
+  const t = THEMES.dark;
+  const lines = [
+    ['$ ', 'whoami', t.title],
+    ['> ', 'weuden-reis', t.text],
+    ['$ ', 'cat foco.txt', t.title],
+    ['> ', 'automação de atendimento', t.text],
+    ['> ', 'extensões Chrome', t.text],
+    ['> ', 'IA aplicada ao WhatsApp', t.text],
+    ['$ ', 'npm run deploy', t.title],
+    ['✓ ', 'no ar', '#7ee2a8'],
+  ];
+  const step = 0.7, total = lines.length * step + 2.5;
+  const rows = lines.map(([p, s, c], i) => {
+    const on = ((i * step) / total * 100).toFixed(1);
+    return `<text class="l" style="animation-name:l${i}" x="20" y="${72 + i * 26}" ${MONO} font-size="14"><tspan fill="${t.accent}">${esc(p)}</tspan><tspan fill="${c}">${esc(s)}</tspan></text>
+    <style>@keyframes l${i} { 0%, ${on}% { opacity: 0; } ${(+on + 1).toFixed(1)}%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>`;
+  }).join('\n  ');
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <style>
+    .l { opacity: 0; animation-duration: ${total}s; animation-iteration-count: infinite; animation-timing-function: steps(1); }
+    @media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="299" rx="14" fill="${t.bg1}" stroke="${t.border}"/>
+  <path d="M0.5 14.5a14 14 0 0 1 14-14h271a14 14 0 0 1 14 14V40H0.5z" fill="${t.bg2}"/>
+  <line x1="0" y1="40" x2="300" y2="40" stroke="${t.border}"/>
+  <circle cx="22" cy="20" r="5.5" fill="#ff5f57"/><circle cx="40" cy="20" r="5.5" fill="#febc2e"/><circle cx="58" cy="20" r="5.5" fill="#28c840"/>
+  <text x="150" y="25" text-anchor="middle" ${MONO} font-size="12" fill="${t.muted}">~/weuden-reis</text>
+  ${rows}
+</svg>
+`;
+}
+
+// Controle de videogame com botões pulsando, ao lado do "Além do código".
+function gamepad() {
+  const t = THEMES.dark;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <style>
+    .b { animation: p 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .b2 { animation-delay: .6s; } .b3 { animation-delay: 1.2s; } .b4 { animation-delay: 1.8s; }
+    @keyframes p { 0%, 70%, 100% { opacity: .45; transform: scale(1); } 20% { opacity: 1; transform: scale(1.18); } }
+    .f { animation: f 3.2s ease-in-out infinite; }
+    @keyframes f { 50% { transform: translateY(-6px); } }
+    @media (prefers-reduced-motion: reduce) { .b, .f { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="199" height="199" rx="14" fill="${t.bg1}" stroke="${t.border}"/>
+  <g class="f">
+    <path d="M58 68h84c22 0 34 18 38 44 4 24-4 40-18 40-12 0-18-10-26-22H64c-8 12-14 22-26 22-14 0-22-16-18-40 4-26 16-44 38-44z" fill="${t.bg2}" stroke="${t.border}" stroke-width="2"/>
+    <rect x="52" y="92" width="10" height="30" rx="2" fill="${t.muted}"/>
+    <rect x="42" y="102" width="30" height="10" rx="2" fill="${t.muted}"/>
+    <circle class="b" cx="148" cy="94" r="6" fill="${t.accent}"/>
+    <circle class="b b2" cx="160" cy="106" r="6" fill="#7ee2a8"/>
+    <circle class="b b3" cx="148" cy="118" r="6" fill="#f2a65a"/>
+    <circle class="b b4" cx="136" cy="106" r="6" fill="#e5737f"/>
+    <rect x="88" y="100" width="10" height="5" rx="2.5" fill="${t.muted}"/>
+    <rect x="104" y="100" width="10" height="5" rx="2.5" fill="${t.muted}"/>
+  </g>
+</svg>
+`;
+}
+
+writeFileSync(new URL('terminal.svg', OUT), terminal());
+writeFileSync(new URL('gamepad.svg', OUT), gamepad());
+
 for (const [name, t] of Object.entries(THEMES)) {
   writeFileSync(new URL(`banner-${name}.svg`, OUT), banner(t));
   for (const p of PROJECTS) writeFileSync(new URL(`card-${p.file}-${name}.svg`, OUT), card(t, p));

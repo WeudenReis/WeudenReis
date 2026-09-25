@@ -1,79 +1,85 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Weuden Reis, Software Engineer" src="assets/banner-light.svg" width="100%">
-</picture>
-
-<p align="left">
-  <a href="https://portfolio-pi-lemon-45.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://vortexi.com.br"><img alt="Vortexi" src="https://img.shields.io/badge/Vortexi-4f56d6?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:weudenfilho@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/weudenfilho@gmail.com-374151?style=flat-square&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Banner Weuden Reis"/>
+  </picture>
 </p>
 
-### Sobre mim
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=000000&style=for-the-badge&base=0&label=VISITAS"/>
 
-Sou **Weuden Reis**, engenheiro de software em Goiânia (GO). Trabalho na **chatPro**, plataforma de atendimento e vendas pelo WhatsApp, onde crio as ferramentas que deixam o time de suporte e de vendas mais rápido: extensões de navegador, automações de envio, transcrição de reuniões e, agora, agentes de IA que conversam com o lead.
+  <img src="https://img.shields.io/github/stars/WeudenReis?color=000000&labelColor=FFFFFF&style=for-the-badge&logo=github&logoColor=black&label=STARS"/>
 
-Fora da chatPro, toco a **Vortexi**, onde faço sites e sistemas sob medida para empresas, e desenvolvo produtos próprios. Gosto de pegar um problema real da operação, entender o fluxo de quem usa e entregar a solução inteira: interface, integração, testes e deploy.
-
-Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolvimento mobile.
-
-### O que eu faço
-
-**Automação de atendimento na chatPro**
-- **chatpro-alert**: extensão Chrome que destaca as conversas sem resposta há mais de 5 minutos, para nenhum cliente ficar esperando.
-- **Extensão de disparos**: envio em massa de imagem, PDF e texto direto de dentro do chatPro, com ritmo controlado entre mensagens.
-- **Extensão de transcrição**: transcreve as ligações do Google Meet com o cliente. Em desenvolvimento: criar o link da reunião, mandar para o cliente e gravar tudo pelo próprio chatPro.
-- **Tour do teste grátis**: onboarding guiado dentro do chatPro, que leva o novo usuário pelos primeiros passos da ferramenta.
-- **IA SDR**: MVP de um agente de pré-venda que qualifica leads pelo WhatsApp.
-- **Quadro de suporte interno**: um Kanban no estilo Trello feito sob medida para o time.
-
-**Sites e sistemas pela Vortexi**
-- Site institucional da [Vortexi](https://vortexi.com.br), com animações e cases reais.
-- Integração com o Notion via API para organizar a operação.
-
-**Produtos próprios**
-- **Sistema Vitrine**: cria landing pages, acompanha o tráfego pago e centraliza os leads num só lugar.
-- **Controle financeiro** e **controle de vendas**: painéis com gráficos, relatórios em PDF e login.
-- MVPs de aplicativos para apresentar ideias a clientes e sócios.
-
-**Faculdade**
-- Atividades de segurança da informação em Python.
-- App Android de cálculo de IMC, no Android Studio.
-
-### Linha do tempo
-
-| Quando | O que rolou |
-| --- | --- |
-| **Mar 2025** | Criei a conta no GitHub |
-| **Jan 2026** | Controle financeiro pessoal em Next.js e Supabase |
-| **Fev 2026** | Sistema de controle de vendas |
-| **Mar 2026** | Quadro de suporte interno e meu portfólio |
-| **Mai 2026** | chatpro-alert, minha primeira extensão para a chatPro |
-| **Jun 2026** | Site e integração com Notion da Vortexi |
-| **Jul 2026** | Sistema Vitrine: landing pages, tráfego pago e leads |
-| **Ago 2026** | Extensão de transcrição de reuniões do Meet |
-| **Set 2026** | Extensão de disparos, tour do teste grátis e o MVP da IA SDR |
-
-<sub>Boa parte desses projetos é privada, por ser de empresa ou de cliente. Os públicos estão nos cards abaixo.</sub>
-
-### Stack
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E">
-  <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome_MV3-1F2937?style=flat-square&logo=googlechrome&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/github/followers/WeudenReis?color=000000&style=for-the-badge&label=SEGUIDORES"/>
 </p>
 
-### Projetos em destaque
+<div align="left">
+  <img align="left" src="assets/terminal.svg" width="300"/>
+
+<h3 align="center">Sobre mim</h3>
+
+Sou `Software Engineer` na `chatPro`, em Goiânia, plataforma de atendimento e vendas pelo WhatsApp. Crio as ferramentas que deixam o time de suporte e de vendas mais rápido: `extensões de navegador`, `automações de envio`, `transcrição de reuniões` e, agora, `agentes de IA` que conversam com o lead.
+
+Fora da chatPro, toco a `Vortexi`, onde faço sites e sistemas sob medida para empresas, e desenvolvo produtos próprios com `Next.js, React, TypeScript e Supabase`.
+Gosto de pegar um problema real da operação, entender o fluxo de quem usa e entregar a solução inteira: interface, integração, testes e deploy. Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolvimento mobile.
+</div>
+
+<br clear="left"/>
+
+<div align="left">
+  <img align="right" src="assets/gamepad.svg" width="200"/>
+
+<h3 align="center">Além do código</h3>
+
+⬛ Games são meu descanso, principalmente The Last of Us<br>
+⬜ Empreender: toco a Vortexi em paralelo ao trabalho<br>
+⬛ Curioso por IA, agentes e tudo que automatiza trabalho repetitivo<br>
+⬜ Aprendo construindo: quase todo projeto aqui começou como teste<br>
+⬛ Sempre atrás da próxima coisa pra aprender e colocar em prática<br>
+
+<div align="center">
+
+  <a href="mailto:weudenfilho@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/8b949e" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-pi-lemon-45.vercel.app">
+    <img src="https://cdn.simpleicons.org/vercel/8b949e" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://vortexi.com.br">
+    <img src="https://cdn.simpleicons.org/googlechrome/8b949e" width="30"/>
+  </a>
+
+</div>
+<br clear="right"/>
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img src="https://cdn.simpleicons.org/github/8b949e" width="18"/>
+    GitHub Stats</h3>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WeudenReis&theme=holi-theme&locale=pt_BR" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img src="https://cdn.simpleicons.org/stackoverflow/8b949e" width="18"/>
+    Tech Stacks</h3>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,supabase,docker,vercel,androidstudio" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" /> <br>
+  </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img src="https://cdn.simpleicons.org/files/8b949e" width="18"/>
+    Projetos em destaque</h3>
 
 <table>
   <tr>
@@ -113,5 +119,49 @@ Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolv
     </td>
   </tr>
 </table>
+</div>
 
-<sub>Os SVGs deste perfil são gerados por <code>scripts/gen.mjs</code>.</sub>
+<details>
+<summary><b>O que eu faço, em detalhe</b></summary>
+<br>
+
+**Automação de atendimento na chatPro**
+- **chatpro-alert**: extensão Chrome que destaca as conversas sem resposta há mais de 5 minutos, para nenhum cliente ficar esperando.
+- **Extensão de disparos**: envio em massa de imagem, PDF e texto direto de dentro do chatPro, com ritmo controlado entre mensagens.
+- **Extensão de transcrição**: transcreve as ligações do Google Meet com o cliente. Em desenvolvimento: criar o link da reunião, mandar para o cliente e gravar tudo pelo próprio chatPro.
+- **Tour do teste grátis**: onboarding guiado dentro do chatPro, que leva o novo usuário pelos primeiros passos da ferramenta.
+- **IA SDR**: MVP de um agente de pré-venda que qualifica leads pelo WhatsApp.
+- **Quadro de suporte interno**: um Kanban no estilo Trello feito sob medida para o time.
+
+**Sites e sistemas pela Vortexi**
+- Site institucional da [Vortexi](https://vortexi.com.br), com animações e cases reais.
+- Integração com o Notion via API para organizar a operação.
+
+**Produtos próprios**
+- **Sistema Vitrine**: cria landing pages, acompanha o tráfego pago e centraliza os leads num só lugar.
+- **Controle financeiro** e **controle de vendas**: painéis com gráficos, relatórios em PDF e login.
+- MVPs de aplicativos para apresentar ideias a clientes e sócios.
+
+**Faculdade**
+- Atividades de segurança da informação em Python.
+- App Android de cálculo de IMC, no Android Studio.
+
+<sub>Boa parte desses projetos é privada, por ser de empresa ou de cliente.</sub>
+</details>
+
+<details>
+<summary><b>Linha do tempo</b></summary>
+<br>
+
+| Quando | O que rolou |
+| --- | --- |
+| **Mar 2025** | Criei a conta no GitHub |
+| **Jan 2026** | Controle financeiro pessoal em Next.js e Supabase |
+| **Fev 2026** | Sistema de controle de vendas |
+| **Mar 2026** | Quadro de suporte interno e meu portfólio |
+| **Mai 2026** | chatpro-alert, minha primeira extensão para a chatPro |
+| **Jun 2026** | Site e integração com Notion da Vortexi |
+| **Jul 2026** | Sistema Vitrine: landing pages, tráfego pago e leads |
+| **Ago 2026** | Extensão de transcrição de reuniões do Meet |
+| **Set 2026** | Extensão de disparos, tour do teste grátis e o MVP da IA SDR |
+</details>

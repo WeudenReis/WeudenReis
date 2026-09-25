@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <style>
+    .l { opacity: 0; animation-duration: 8.1s; animation-iteration-count: infinite; animation-timing-function: steps(1); }
+    @media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="299" rx="14" fill="#0d1117" stroke="#262c38"/>
+  <path d="M0.5 14.5a14 14 0 0 1 14-14h271a14 14 0 0 1 14 14V40H0.5z" fill="#161b26"/>
+  <line x1="0" y1="40" x2="300" y2="40" stroke="#262c38"/>
+  <circle cx="22" cy="20" r="5.5" fill="#ff5f57"/><circle cx="40" cy="20" r="5.5" fill="#febc2e"/><circle cx="58" cy="20" r="5.5" fill="#28c840"/>
+  <text x="150" y="25" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#6b7482">~/weuden-reis</text>
+  <text class="l" style="animation-name:l0" x="20" y="72" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+    <style>@keyframes l0 { 0%, 0.0% { opacity: 0; } 1.0%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l1" x="20" y="98" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">&gt; </tspan><tspan fill="#9aa4b2">weuden-reis</tspan></text>
+    <style>@keyframes l1 { 0%, 8.6% { opacity: 0; } 9.6%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l2" x="20" y="124" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">$ </tspan><tspan fill="#e6edf3">cat foco.txt</tspan></text>
+    <style>@keyframes l2 { 0%, 17.3% { opacity: 0; } 18.3%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l3" x="20" y="150" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">&gt; </tspan><tspan fill="#9aa4b2">automação de atendimento</tspan></text>
+    <style>@keyframes l3 { 0%, 25.9% { opacity: 0; } 26.9%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l4" x="20" y="176" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">&gt; </tspan><tspan fill="#9aa4b2">extensões Chrome</tspan></text>
+    <style>@keyframes l4 { 0%, 34.6% { opacity: 0; } 35.6%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l5" x="20" y="202" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">&gt; </tspan><tspan fill="#9aa4b2">IA aplicada ao WhatsApp</tspan></text>
+    <style>@keyframes l5 { 0%, 43.2% { opacity: 0; } 44.2%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l6" x="20" y="228" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">$ </tspan><tspan fill="#e6edf3">npm run deploy</tspan></text>
+    <style>@keyframes l6 { 0%, 51.9% { opacity: 0; } 52.9%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+  <text class="l" style="animation-name:l7" x="20" y="254" font-family="'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14"><tspan fill="#8b93ff">✓ </tspan><tspan fill="#7ee2a8">no ar</tspan></text>
+    <style>@keyframes l7 { 0%, 60.5% { opacity: 0; } 61.5%, 96% { opacity: 1; } 100% { opacity: 0; } }</style>
+</svg>
