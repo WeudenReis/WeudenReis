@@ -9,13 +9,52 @@
   <a href="mailto:weudenfilho@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/weudenfilho@gmail.com-374151?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-### Sobre
+### Sobre mim
 
-Sou engenheiro de software na **chatPro**, em Goiânia. No dia a dia construo extensões de navegador, automações de atendimento e produtos web do zero ao deploy. Também toco a **Vortexi**, onde faço sites e sistemas para empresas.
+Sou **Weuden Reis**, engenheiro de software em Goiânia (GO). Trabalho na **chatPro**, plataforma de atendimento e vendas pelo WhatsApp, onde crio as ferramentas que deixam o time de suporte e de vendas mais rápido: extensões de navegador, automações de envio, transcrição de reuniões e, agora, agentes de IA que conversam com o lead.
 
-- Hoje: ferramentas internas e IA aplicada ao atendimento por WhatsApp
-- Gosto de: interface bem acabada, código testado e deploy sem drama
-- Estudando: arquitetura de agentes com LLM e segurança da informação
+Fora da chatPro, toco a **Vortexi**, onde faço sites e sistemas sob medida para empresas, e desenvolvo produtos próprios. Gosto de pegar um problema real da operação, entender o fluxo de quem usa e entregar a solução inteira: interface, integração, testes e deploy.
+
+Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolvimento mobile.
+
+### O que eu faço
+
+**Automação de atendimento na chatPro**
+- **chatpro-alert**: extensão Chrome que destaca as conversas sem resposta há mais de 5 minutos, para nenhum cliente ficar esperando.
+- **Extensão de disparos**: envio em massa de imagem, PDF e texto direto de dentro do chatPro, com ritmo controlado entre mensagens.
+- **Extensão de transcrição**: transcreve as ligações do Google Meet com o cliente. Em desenvolvimento: criar o link da reunião, mandar para o cliente e gravar tudo pelo próprio chatPro.
+- **Tour do teste grátis**: onboarding guiado dentro do chatPro, que leva o novo usuário pelos primeiros passos da ferramenta.
+- **IA SDR**: MVP de um agente de pré-venda que qualifica leads pelo WhatsApp.
+- **Quadro de suporte interno**: um Kanban no estilo Trello feito sob medida para o time.
+
+**Sites e sistemas pela Vortexi**
+- Site institucional da [Vortexi](https://vortexi.com.br), com animações e cases reais.
+- Integração com o Notion via API para organizar a operação.
+
+**Produtos próprios**
+- **Sistema Vitrine**: cria landing pages, acompanha o tráfego pago e centraliza os leads num só lugar.
+- **Controle financeiro** e **controle de vendas**: painéis com gráficos, relatórios em PDF e login.
+- MVPs de aplicativos para apresentar ideias a clientes e sócios.
+
+**Faculdade**
+- Atividades de segurança da informação em Python.
+- App Android de cálculo de IMC, no Android Studio.
+
+### Linha do tempo
+
+| Quando | O que rolou |
+| --- | --- |
+| **Mar 2025** | Criei a conta no GitHub |
+| **Jan 2026** | Controle financeiro pessoal em Next.js e Supabase |
+| **Fev 2026** | Sistema de controle de vendas |
+| **Mar 2026** | Quadro de suporte interno e meu portfólio |
+| **Mai 2026** | chatpro-alert, minha primeira extensão para a chatPro |
+| **Jun 2026** | Site e integração com Notion da Vortexi |
+| **Jul 2026** | Sistema Vitrine: landing pages, tráfego pago e leads |
+| **Ago 2026** | Extensão de transcrição de reuniões do Meet |
+| **Set 2026** | Extensão de disparos, tour do teste grátis e o MVP da IA SDR |
+
+<sub>Boa parte desses projetos é privada, por ser de empresa ou de cliente. Os públicos estão nos cards abaixo.</sub>
 
 ### Stack
 
