@@ -18,7 +18,7 @@
 
 <h3 align="center">Sobre mim</h3>
 
-Sou `Software Engineer` na `chatPro`, em Goiânia, plataforma de atendimento e vendas pelo WhatsApp. Crio as ferramentas que deixam o time de suporte e de vendas mais rápido: `extensões de navegador`, `automações de envio`, `transcrição de reuniões` e, agora, `agentes de IA` que conversam com o lead.
+Sou estudante de `Software Engineer`, e trabalho no `chatPro`, em Goiânia, plataforma de atendimento e vendas pelo WhatsApp. Crio as ferramentas que deixam o time de suporte e de vendas mais rápido: `extensões de navegador`, `automações de envio`, `transcrição de reuniões` e, agora, `agentes de IA` que conversam com o lead.
 
 Fora da chatPro, toco a `Vortexi`, onde faço sites e sistemas sob medida para empresas, e desenvolvo produtos próprios com `Next.js, React, TypeScript e Supabase`.
 Gosto de pegar um problema real da operação, entender o fluxo de quem usa e entregar a solução inteira: interface, integração, testes e deploy. Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolvimento mobile.
