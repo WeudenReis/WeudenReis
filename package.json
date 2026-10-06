@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "header": "node scripts/header.mjs"
+    "desenhos": "node scripts/desenhos.mjs"
   },
   "devDependencies": {
-    "opentype.js": "^1.3.4"
+    "opentype.js": "^1.3.4",
+    "roughjs": "^4.6.6",
+    "wawoff2": "^2.0.1"
   }
 }

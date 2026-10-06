@@ -1,10 +1,7 @@
-<img src="assets/header.svg" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/banner-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/banner-light.svg" width="100%" alt="Olá, mundo! Eu sou o Weuden. Software Engineer, chatPro, Goiânia, GO"/></picture>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=4000&pause=1000&color=FF7A33&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=4000&pause=1000&color=C2410C&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/frase-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/frase-light.svg" width="720" alt="Extensões, automações e produtos web que resolvem problema de verdade."/></picture>
 </p>
 
 <p align="center">
@@ -17,7 +14,7 @@
 
 <img align="left" src="assets/tlou-girafa.webp" width="340" alt="Ellie fazendo carinho na girafa enquanto o Joel olha, The Last of Us Part I"/>
 
-<h3 align="center">Sobre mim</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-sobre-mim-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-sobre-mim-light.svg" height="52" alt="Sobre mim"/></picture></p>
 
 Sou estudante de `Software Engineer`, e trabalho no `chatPro`, em Goiânia, plataforma de atendimento e vendas pelo WhatsApp. Crio as ferramentas que deixam o time de suporte e de vendas mais rápido: `extensões de navegador`, `automações de envio`, `transcrição de reuniões` e, agora, `agentes de IA` que conversam com o lead.
 
@@ -29,7 +26,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 
 <img align="right" src="assets/tlou-joel-rindo.webp" width="330" alt="Joel rindo das piadas da Ellie no carro, The Last of Us Part I"/>
 
-<h3 align="center">Além do código</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-alem-do-codigo-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-alem-do-codigo-light.svg" height="52" alt="Além do código"/></picture></p>
 
 - Games são meu descanso, principalmente The Last of Us
 - Empreender: toco a Vortexi em paralelo ao trabalho
@@ -40,7 +37,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <br clear="right"/>
 <br>
 
-<h3 align="center">Tech Stacks</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-tech-stacks-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-tech-stacks-light.svg" height="52" alt="Tech Stacks"/></picture></p>
 
 <p align="center">
   <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=dark"><img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Python, Supabase, Docker, Vercel, Android Studio, Git, GitHub, VS Code, HTML, CSS"/></picture></a>
@@ -48,7 +45,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 
 <br>
 
-<h3 align="center">Projetos em destaque</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-projetos-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-projetos-light.svg" height="52" alt="Projetos em destaque"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/WeudenReis/chatpro-alert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=FF7A33&text_color=9198a1&icon_color=FF7A33&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=C2410C&text_color=59636e&icon_color=C2410C&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/></picture></a>
@@ -104,7 +101,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 
 <br>
 
-<h3 align="center">GitHub Stats</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-github-stats-dark.svg"><img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/titulo-github-stats-light.svg" height="52" alt="GitHub Stats"/></picture></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=C2410C&style=for-the-badge&base=0&label=VISITAS" alt="Visitas"/>
@@ -123,4 +120,4 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:FF7A33%2C100:C2410C" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/main/assets/desenhos/rodape.svg" width="100%" alt=""/>
