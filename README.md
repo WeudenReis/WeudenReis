@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="left" src="assets/tlou-seattle.webp" width="330" alt="Ellie nadando em Seattle, The Last of Us Part II"/>
+<img align="left" src="assets/tlou-girafa.webp" width="340" alt="Ellie fazendo carinho na girafa enquanto o Joel olha, The Last of Us Part I"/>
 
 <h3 align="center">Sobre mim</h3>
 
@@ -30,7 +30,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <br clear="left"/>
 <br>
 
-<img align="right" src="assets/tlou-ellie.webp" width="300" alt="Ellie cantando no carro, The Last of Us Part II"/>
+<img align="right" src="assets/tlou-joel-rindo.webp" width="330" alt="Joel rindo das piadas da Ellie no carro, The Last of Us Part I"/>
 
 <h3 align="center">Além do código</h3>
 
