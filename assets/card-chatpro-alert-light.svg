@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150">
-  <rect x="0.5" y="0.5" width="419" height="149" rx="12" fill="#f4f6fa" stroke="#d9dee7"/>
-  <rect x="24" y="26" width="4" height="18" rx="2" fill="#4f56d6"/>
-  <text x="38" y="41" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#111827">chatpro-alert</text>
-  <text x="396" y="40" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#8a93a3">★ 5</text>
-  <text x="24" y="72" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#4b5563">Extensão Chrome que destaca conversas do chatPro</text><text x="24" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#4b5563">sem resposta há mais de 5 minutos.</text>
-  <rect x="24" y="106" width="92" height="24" rx="12" fill="#eef0f6" stroke="#d9dee7"/><text x="70" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#4b5563">JavaScript</text><rect x="124" y="106" width="135.2" height="24" rx="12" fill="#eef0f6" stroke="#d9dee7"/><text x="191.6" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" fill="#4b5563">Chrome Extension</text>
-</svg>

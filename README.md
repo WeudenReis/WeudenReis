@@ -1,20 +1,21 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1f2a1d,100:5c6b4a&text=Weuden%20Reis&fontColor=ece8d9&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Banner Weuden Reis"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=A3B18A&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=56664A&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=000000&style=for-the-badge&base=0&label=VISITAS"/>
-
-  <img src="https://img.shields.io/github/stars/WeudenReis?color=000000&labelColor=FFFFFF&style=for-the-badge&logo=github&logoColor=black&label=STARS"/>
-
-  <img src="https://img.shields.io/github/followers/WeudenReis?color=000000&style=for-the-badge&label=SEGUIDORES"/>
+  <a href="mailto:weudenfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-3b4a34?style=for-the-badge&logo=gmail&logoColor=ece8d9" alt="Gmail"/></a>
+  <a href="https://portfolio-pi-lemon-45.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3b4a34?style=for-the-badge&logo=vercel&logoColor=ece8d9" alt="Portfólio"/></a>
+  <a href="https://vortexi.com.br"><img src="https://img.shields.io/badge/Vortexi-3b4a34?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHBhdGggZD0iTTggOS41IEwxNiAyMi41IEwyNCA5LjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGN0EzMyIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Vortexi"/></a>
 </p>
 
-<div align="left">
-  <img align="left" src="assets/terminal.svg" width="300"/>
+<br>
+
+<img align="left" src="assets/tlou-seattle.gif" width="330" alt="Ellie nadando em Seattle, The Last of Us Part II"/>
 
 <h3 align="center">Sobre mim</h3>
 
@@ -22,104 +23,64 @@ Sou estudante de `Software Engineer`, e trabalho no `chatPro`, em Goiânia, plat
 
 Fora da chatPro, toco a `Vortexi`, onde faço sites e sistemas sob medida para empresas, e desenvolvo produtos próprios com `Next.js, React, TypeScript e Supabase`.
 Gosto de pegar um problema real da operação, entender o fluxo de quem usa e entregar a solução inteira: interface, integração, testes e deploy. Em paralelo, sigo na faculdade, estudando segurança da informação e desenvolvimento mobile.
-</div>
 
 <br clear="left"/>
+<br>
 
-<div align="left">
-  <img align="right" src="assets/gamepad.svg" width="200"/>
+<img align="right" src="assets/tlou-ellie.gif" width="300" alt="Ellie cantando no carro, The Last of Us Part II"/>
 
 <h3 align="center">Além do código</h3>
 
-⬛ Games são meu descanso, principalmente The Last of Us<br>
-⬜ Empreender: toco a Vortexi em paralelo ao trabalho<br>
-⬛ Curioso por IA, agentes e tudo que automatiza trabalho repetitivo<br>
-⬜ Aprendo construindo: quase todo projeto aqui começou como teste<br>
-⬛ Sempre atrás da próxima coisa pra aprender e colocar em prática<br>
+- Games são meu descanso, principalmente The Last of Us
+- Empreender: toco a Vortexi em paralelo ao trabalho
+- Curioso por IA, agentes e tudo que automatiza trabalho repetitivo
+- Aprendo construindo: quase todo projeto aqui começou como teste
+- Sempre atrás da próxima coisa pra aprender e colocar em prática
 
-<div align="center">
-
-  <a href="mailto:weudenfilho@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/8b949e" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-pi-lemon-45.vercel.app">
-    <img src="https://cdn.simpleicons.org/vercel/8b949e" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://vortexi.com.br">
-    <img src="https://cdn.simpleicons.org/googlechrome/8b949e" width="30"/>
-  </a>
-
-</div>
 <br clear="right"/>
-</div>
+<br>
 
-<div align="center">
-  <h3 align="center">
-    <img src="https://cdn.simpleicons.org/github/8b949e" width="18"/>
-    GitHub Stats</h3>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WeudenReis&theme=holi-theme&locale=pt_BR" alt="GitHub Streak" /></a>
-</div>
+<h3 align="center">Tech Stacks</h3>
 
-<div align="center">
-  <h3 align="center">
-    <img src="https://cdn.simpleicons.org/stackoverflow/8b949e" width="18"/>
-    Tech Stacks</h3>
-
-  <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,supabase,docker,vercel,androidstudio" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" /> <br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=dark">
+      <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Python, Supabase, Docker, Vercel, Android Studio, Git, GitHub, VS Code, HTML, CSS"/>
+    </picture>
   </a>
-  </p>
-</div>
+</p>
 
-<div align="center">
-  <h3 align="center">
-    <img src="https://cdn.simpleicons.org/files/8b949e" width="18"/>
-    Projetos em destaque</h3>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/WeudenReis/chatpro-alert">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-chatpro-alert-dark.svg">
-          <img alt="chatpro-alert" src="assets/card-chatpro-alert-light.svg" width="420">
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/WeudenReis/extensao_transcricao">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-transcricao-dark.svg">
-          <img alt="extensao_transcricao" src="assets/card-transcricao-light.svg" width="420">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/WeudenReis/controle-financeiro">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-controle-financeiro-dark.svg">
-          <img alt="controle-financeiro" src="assets/card-controle-financeiro-light.svg" width="420">
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/WeudenReis/portfolio">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-portfolio-dark.svg">
-          <img alt="portfolio" src="assets/card-portfolio-light.svg" width="420">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<h3 align="center">Projetos em destaque</h3>
+
+<p align="center">
+  <a href="https://github.com/WeudenReis/chatpro-alert">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/>
+    </picture>
+  </a>
+  <a href="https://github.com/WeudenReis/extensao_transcricao">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="extensao_transcricao"/>
+    </picture>
+  </a>
+  <a href="https://github.com/WeudenReis/controle-financeiro">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="controle-financeiro"/>
+    </picture>
+  </a>
+  <a href="https://github.com/WeudenReis/portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="portfolio"/>
+    </picture>
+  </a>
+</p>
 
 <details>
 <summary><b>O que eu faço, em detalhe</b></summary>
@@ -165,3 +126,31 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 | **Ago 2026** | Extensão de transcrição de reuniões do Meet |
 | **Set 2026** | Extensão de disparos, tour do teste grátis e o MVP da IA SDR |
 </details>
+
+<br>
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=3b4a34&style=for-the-badge&base=0&label=VISITAS" alt="Visitas"/>
+  <img src="https://img.shields.io/github/stars/WeudenReis?color=3b4a34&labelColor=555&style=for-the-badge&label=STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/WeudenReis?color=3b4a34&labelColor=555&style=for-the-badge&label=SEGUIDORES" alt="Seguidores"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=30363d&stroke=30363d&ring=8c9a6b&fire=a3b18a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a3b18a&sideLabels=9198a1&dates=9198a1&border_radius=8">
+      <img src="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=5c6b4a&fire=5c6b4a&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=3b4a34&sideLabels=59636e&dates=59636e&border_radius=8" alt="GitHub Streak"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeudenReis/WeudenReis/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/WeudenReis/WeudenReis/output/snake-light.svg" alt="Cobrinha comendo o gráfico de contribuições"/>
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5c6b4a,100:1f2a1d" width="100%" alt=""/>
