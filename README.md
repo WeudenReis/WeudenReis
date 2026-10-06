@@ -1,19 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1f2a1d%2C100:5c6b4a&text=Weuden%20Reis&fontColor=ece8d9&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:7b8c5c%2C100:a3b18a&text=Weuden%20Reis&fontColor=1f2a1d&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=230&color=0:C2410C%2C100:FF7A33&text=Weuden%20Reis&fontColor=FFF7ED&fontSize=56&fontAlignY=28&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=47" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=A3B18A&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=56664A&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=FF7A33&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=C2410C&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
   </picture>
 </p>
 
 <p align="center">
-  <a href="mailto:weudenfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-3b4a34?style=for-the-badge&logo=gmail&logoColor=ece8d9" alt="Gmail"/></a>
-  <a href="https://portfolio-pi-lemon-45.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3b4a34?style=for-the-badge&logo=vercel&logoColor=ece8d9" alt="Portfólio"/></a>
-  <a href="https://vortexi.com.br"><img src="https://img.shields.io/badge/Vortexi-3b4a34?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHBhdGggZD0iTTggOS41IEwxNiAyMi41IEwyNCA5LjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGN0EzMyIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Vortexi"/></a>
+  <a href="mailto:weudenfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-C2410C?style=for-the-badge&logo=gmail&logoColor=FFF7ED" alt="Gmail"/></a>
+  <a href="https://portfolio-pi-lemon-45.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C2410C?style=for-the-badge&logo=vercel&logoColor=FFF7ED" alt="Portfólio"/></a>
+  <a href="https://vortexi.com.br"><img src="https://img.shields.io/badge/Vortexi-C2410C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHBhdGggZD0iTTggOS41IEwxNiAyMi41IEwyNCA5LjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Vortexi"/></a>
 </p>
 
 <br>
@@ -54,10 +51,10 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <h3 align="center">Projetos em destaque</h3>
 
 <p align="center">
-  <a href="https://github.com/WeudenReis/chatpro-alert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/></picture></a>
-  <a href="https://github.com/WeudenReis/extensao_transcricao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="extensao_transcricao"/></picture></a>
-  <a href="https://github.com/WeudenReis/controle-financeiro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="controle-financeiro"/></picture></a>
-  <a href="https://github.com/WeudenReis/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="portfolio"/></picture></a>
+  <a href="https://github.com/WeudenReis/chatpro-alert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=FF7A33&text_color=9198a1&icon_color=FF7A33&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=C2410C&text_color=59636e&icon_color=C2410C&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/></picture></a>
+  <a href="https://github.com/WeudenReis/extensao_transcricao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=30363d&title_color=FF7A33&text_color=9198a1&icon_color=FF7A33&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=d1d9e0&title_color=C2410C&text_color=59636e&icon_color=C2410C&border_radius=8&description_lines_count=2" width="380" alt="extensao_transcricao"/></picture></a>
+  <a href="https://github.com/WeudenReis/controle-financeiro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=30363d&title_color=FF7A33&text_color=9198a1&icon_color=FF7A33&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=d1d9e0&title_color=C2410C&text_color=59636e&icon_color=C2410C&border_radius=8&description_lines_count=2" width="380" alt="controle-financeiro"/></picture></a>
+  <a href="https://github.com/WeudenReis/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=30363d&title_color=FF7A33&text_color=9198a1&icon_color=FF7A33&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=d1d9e0&title_color=C2410C&text_color=59636e&icon_color=C2410C&border_radius=8&description_lines_count=2" width="380" alt="portfolio"/></picture></a>
 </p>
 
 <details>
@@ -110,13 +107,13 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=3b4a34&style=for-the-badge&base=0&label=VISITAS" alt="Visitas"/>
-  <img src="https://img.shields.io/github/stars/WeudenReis?color=3b4a34&labelColor=555&style=for-the-badge&label=STARS" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/WeudenReis?color=3b4a34&labelColor=555&style=for-the-badge&label=SEGUIDORES" alt="Seguidores"/>
+  <img src="https://komarev.com/ghpvc/?username=WeudenReis&color=C2410C&style=for-the-badge&base=0&label=VISITAS" alt="Visitas"/>
+  <img src="https://img.shields.io/github/stars/WeudenReis?color=C2410C&labelColor=555&style=for-the-badge&label=STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/WeudenReis?color=C2410C&labelColor=555&style=for-the-badge&label=SEGUIDORES" alt="Seguidores"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=30363d&stroke=30363d&ring=8c9a6b&fire=a3b18a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a3b18a&sideLabels=9198a1&dates=9198a1&border_radius=8"><img src="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=5c6b4a&fire=5c6b4a&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=3b4a34&sideLabels=59636e&dates=59636e&border_radius=8" alt="GitHub Streak"/></picture></a>
+  <a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=30363d&stroke=30363d&ring=FF7A33&fire=FF7A33&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=FF7A33&sideLabels=9198a1&dates=9198a1&border_radius=8"><img src="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=C2410C&fire=C2410C&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=C2410C&sideLabels=59636e&dates=59636e&border_radius=8" alt="GitHub Streak"/></picture></a>
 </p>
 
 <p align="center">
@@ -126,7 +123,4 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5c6b4a%2C100:1f2a1d">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:a3b18a%2C100:7b8c5c" width="100%" alt=""/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:FF7A33%2C100:C2410C" width="100%" alt=""/>
