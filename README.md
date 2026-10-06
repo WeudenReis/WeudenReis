@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1f2a1d,100:5c6b4a&text=Weuden%20Reis&fontColor=ece8d9&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1f2a1d%2C100:5c6b4a&text=Weuden%20Reis&fontColor=ece8d9&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:7b8c5c%2C100:a3b18a&text=Weuden%20Reis&fontColor=1f2a1d&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=56" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
+</picture>
 
 <p align="center">
   <picture>
@@ -43,12 +46,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <h3 align="center">Tech Stacks</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=dark">
-      <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Python, Supabase, Docker, Vercel, Android Studio, Git, GitHub, VS Code, HTML, CSS"/>
-    </picture>
-  </a>
+  <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=dark"><img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cpython%2Csupabase%2Cdocker%2Cvercel%2Candroidstudio%2Cgit%2Cgithub%2Cvscode%2Chtml%2Ccss&perline=8&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Python, Supabase, Docker, Vercel, Android Studio, Git, GitHub, VS Code, HTML, CSS"/></picture></a>
 </p>
 
 <br>
@@ -56,30 +54,10 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 <h3 align="center">Projetos em destaque</h3>
 
 <p align="center">
-  <a href="https://github.com/WeudenReis/chatpro-alert">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/>
-    </picture>
-  </a>
-  <a href="https://github.com/WeudenReis/extensao_transcricao">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="extensao_transcricao"/>
-    </picture>
-  </a>
-  <a href="https://github.com/WeudenReis/controle-financeiro">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="controle-financeiro"/>
-    </picture>
-  </a>
-  <a href="https://github.com/WeudenReis/portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="portfolio"/>
-    </picture>
-  </a>
+  <a href="https://github.com/WeudenReis/chatpro-alert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=chatpro-alert&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="chatpro-alert"/></picture></a>
+  <a href="https://github.com/WeudenReis/extensao_transcricao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=extensao_transcricao&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="extensao_transcricao"/></picture></a>
+  <a href="https://github.com/WeudenReis/controle-financeiro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=controle-financeiro&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="controle-financeiro"/></picture></a>
+  <a href="https://github.com/WeudenReis/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=30363d&title_color=a3b18a&text_color=9198a1&icon_color=8c9a6b&border_radius=8&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WeudenReis&repo=portfolio&bg_color=00000000&border_color=d1d9e0&title_color=3b4a34&text_color=59636e&icon_color=5c6b4a&border_radius=8&description_lines_count=2" width="380" alt="portfolio"/></picture></a>
 </p>
 
 <details>
@@ -138,12 +116,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=30363d&stroke=30363d&ring=8c9a6b&fire=a3b18a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a3b18a&sideLabels=9198a1&dates=9198a1&border_radius=8">
-      <img src="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=5c6b4a&fire=5c6b4a&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=3b4a34&sideLabels=59636e&dates=59636e&border_radius=8" alt="GitHub Streak"/>
-    </picture>
-  </a>
+  <a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=30363d&stroke=30363d&ring=8c9a6b&fire=a3b18a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a3b18a&sideLabels=9198a1&dates=9198a1&border_radius=8"><img src="https://streak-stats.demolab.com?user=WeudenReis&locale=pt_BR&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=5c6b4a&fire=5c6b4a&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=3b4a34&sideLabels=59636e&dates=59636e&border_radius=8" alt="GitHub Streak"/></picture></a>
 </p>
 
 <p align="center">
@@ -153,4 +126,7 @@ Gosto de pegar um problema real da operação, entender o fluxo de quem usa e en
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5c6b4a,100:1f2a1d" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5c6b4a%2C100:1f2a1d">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:a3b18a%2C100:7b8c5c" width="100%" alt=""/>
+</picture>
