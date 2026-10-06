@@ -1,0 +1,11 @@
+{
+  "name": "weudenreis-perfil",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "header": "node scripts/header.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}

@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=230&color=0:C2410C%2C100:FF7A33&text=Weuden%20Reis&fontColor=FFF7ED&fontSize=56&fontAlignY=28&desc=Software%20Engineer%20%C2%B7%20chatPro%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descSize=18&descAlignY=47" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
+<img src="assets/header.svg" width="100%" alt="Weuden Reis, Software Engineer na chatPro, Goiânia, GO"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=FF7A33&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=C2410C&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=4000&pause=1000&color=FF7A33&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=4000&pause=1000&color=C2410C&center=true&vCenter=true&repeat=false&width=780&lines=Extens%C3%B5es%2C+automa%C3%A7%C3%B5es+e+produtos+web+que+resolvem+problema+de+verdade." alt="Extensões, automações e produtos web que resolvem problema de verdade."/>
   </picture>
 </p>
 
