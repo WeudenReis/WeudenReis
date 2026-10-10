@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:weudenfilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-C2410C?style=for-the-badge&logo=gmail&logoColor=FFF7ED" alt="Gmail"/></a>
-  <a href="https://portfolio-pi-lemon-45.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C2410C?style=for-the-badge&logo=vercel&logoColor=FFF7ED" alt="Portfólio"/></a>
+  <a href="https://weuden.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C2410C?style=for-the-badge&logo=vercel&logoColor=FFF7ED" alt="Portfólio"/></a>
   <a href="https://vortexi.com.br"><img src="https://img.shields.io/badge/Vortexi-C2410C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHBhdGggZD0iTTggOS41IEwxNiAyMi41IEwyNCA5LjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Vortexi"/></a>
 </p>
 
